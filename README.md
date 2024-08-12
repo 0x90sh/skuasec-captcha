@@ -112,3 +112,5 @@ Configure the session TTL and validation amount settings to control the number o
 
 - **Session TTL**: Set the duration a challenge ID remains valid.
 - **Validations Amount**: Limit the number of times a challenge ID can be validated.
+
+![Captcha Settings](captcha-settings.png)
